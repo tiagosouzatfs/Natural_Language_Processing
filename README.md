@@ -1,6 +1,6 @@
 # Natural Language Processing To Query SQL
 
-This work was development with goal to util the concepts of Natural Language Processing to convert an phrase from language natural more especificly in Portuguese to an query SQL. But, i made additions execution and answer too in language natural, forming an chain complete to interation between human and AI, conform image below:
+This work was development with goal to util the concepts of Natural Language Processing to convert an phrase from language natural more especificly in Portuguese to an query SQL. But, i made additions execution and answer too in language natural, forming an chain complete to interation between human and AI, according to the image below:
 
 ![nl_to_sql](https://github.com/tiagosouzatfs/Natural_Language_Processing/blob/main/nl_to_sql.png)
 Source: [Langchain](https://python.langchain.com/docs/tutorials/sql_qa/#%EF%B8%8F-security-note-%EF%B8%8F)
