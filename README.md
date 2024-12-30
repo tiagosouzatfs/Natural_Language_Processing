@@ -13,8 +13,9 @@ Source: [Langchain](https://python.langchain.com/docs/tutorials/sql_qa/#%EF%B8%8
 - Optinally, Make your python virtual environment before install the libs
 
 ### Important!!!
+#### This tutorial will not cover agents (future work).
 #### Use resources of GPU to execute these work
-#### If to need to util Colab, recommend change de environment to T4 GPU and follow the tutorial below:  
+#### If to need to util Colab, recommend change de environment to T4 GPU and follow the tutorial: 
 [Running Ollama in Google Colab](https://medium.com/@abonia/running-ollama-in-google-colab-free-tier-545609258453)
 
 Was utilized the dataset with name [Estatisticas de transações Pix](https://github.com/tiagosouzatfs/Natural_Language_Processing/blob/main/estatisticas_transacoes_pix.xlsx) from open API from [Banco Central](https://olinda.bcb.gov.br/olinda/servico/Pix_DadosAbertos/versao/v1/aplicacao#!/recursos) which has the following description: Quantity and financial volume of Pix transactions settled monthly. Only for the month of November 2024.
